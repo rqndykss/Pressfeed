@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url(./reset.css);
+
+:root {
+    --main-accent: #4054F9;
+    --gray-text: #262626;
+    --orange: #D1852C;
+
+}
+
+body {
+    font-family: "Montserrat", sans-serif;
+    
+}
+
+.container {
+    max-width: 1170px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
